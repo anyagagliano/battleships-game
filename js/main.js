@@ -72,6 +72,18 @@ if(ship1==3){
     console.log("ship1 föstört!");
 }
 
+ship2= 4;
+ship2;
+shoot = $(this)
+if if(ship2<4){
+    ship+=1;
+    console.log("Shoot!");
+
+}
+if(ship2==4){
+    console.log("ship2 föstört!");
+}
+
 
 /*
 No.	Class of ship	Size
