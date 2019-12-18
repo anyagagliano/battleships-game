@@ -75,7 +75,7 @@ if(ship1==3){
 ship2= 4;
 ship2;
 shoot = $(this)
-if if(ship2<4){
+if(ship2<4){
     ship+=1;
     console.log("Shoot!");
 
