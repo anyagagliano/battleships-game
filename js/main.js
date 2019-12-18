@@ -60,7 +60,17 @@ function shoot(){
 
 }
 
+ship1 = 3;
+ship1;
+shoot = $(this)//inte klar skjutfunktion
+if(ship1<3){
+    ship+=1;
+    console.log("Shoot!");
 
+}
+if(ship1==3){
+    console.log("ship1 föstört!");
+}
 
 
 /*
